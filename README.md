@@ -19,4 +19,4 @@ From a financial perspective, the value of Epicoin should be backed by the fact 
 Default baseline command line interface is provided in `/CLI`.
 
 ---
-**[More information is available on the official website, epitacoin.ml](https://ashwinsk01.github.io/epitacoin.github.io)**
+**[More information is available on the official website, epitacoin.github.io](https://ashwinsk01.github.io/epitacoin.github.io)**
